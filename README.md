@@ -1,3 +1,5 @@
+Presentación: https://docs.google.com/presentation/d/10UpHeftYr1qrAbCL5ElqVcS6fiT3YfpRoZaRMB4gWCQ/edit?hl=ES#slide=id.g1e7071c5d95_0_283
+
 # Pneumonia
 Pneumonia identification model
 
